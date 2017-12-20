@@ -1,8 +1,8 @@
 The nweq
 
-<<<<<<< HEAD
+<<<<<<< HEAD <<<<<<<<<<<<<<<<<<
 Meeeew 2333333333
->>>>>>> 8a6616f419d3caf678fc21ea547af350c38abf4f
+>>>>>>> 8a6616f419d3caf678fc21ea547af350c38abf4f <<<<<<<<<<
 
 GGGGGGGGGGGGGGav
 
